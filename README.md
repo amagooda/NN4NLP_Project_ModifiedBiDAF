@@ -10,6 +10,6 @@ The repository has two versions of the modified BiDAF implementation
 
 
 Group:
-- Haoran Zhang
-- Tazin Afrin
-- Ahmed Magooda
+- Haoran Zhang (haoranz3@andrew.cmu.edu)
+- Tazin Afrin (tafrin@andrew.cmu.edu)
+- Ahmed Magooda (amagooda@andrew.cmu.edu)
